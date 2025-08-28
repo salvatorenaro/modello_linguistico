@@ -1,1 +1,1 @@
-# modello_linguistico
+# modello_linguistico by Salvatore Naro
